@@ -2,7 +2,7 @@
 2. Node Server Setup ** 28/05/2022
 3. Routes ** 28/05/2022
 4. Models ** 28/05/2022
-5. Database
+5. Database ** 28/05/2022 (Cant properly add environment variables and connect to mongo db)
 6. Testing Api
 7. Creating the Frontend
 8. Running the React App
