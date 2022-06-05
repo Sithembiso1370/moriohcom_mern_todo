@@ -1,0 +1,25 @@
+{
+  "name": "moriohcom_mern_todo",
+  "version": "1.0.0",
+  "description": "Simple MERN todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN",
+    "JAVASCRIPT",
+    "REACT",
+    "EXPRESS",
+    "NODE",
+    "MONGODB"
+  ],
+  "author": "Sithembiso Maphanga",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  }
+}

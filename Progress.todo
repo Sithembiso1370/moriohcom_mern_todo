@@ -1,11 +1,11 @@
-1.Introduction ** 28/05/2022
+TODO 1.Introduction ** 28/05/2022 Done
 2. Node Server Setup ** 28/05/2022
 3. Routes ** 28/05/2022
 4. Models ** 28/05/2022
-5. Database ** 28/05/2022 (Cant properly add environment variables and connect to mongo db)
-6. Testing Api
-7. Creating the Frontend
-8. Running the React App
-9. Creating your Components
-10. Styling your Components
-11. Conclusion
+5. Database ** 28/05/2022 (Cant properly add environment variables and connect to mongo db) -- Fixed connection string issues
+6. Testing Api ** 05/06/2022 (Cant properly add environment variables and connect to mongo db)
+7. Creating the Frontend ** 05/06/2022 (Cant properly add environment variables and connect to mongo db)
+8. Running the React App ** 05/06/2022 (Cant properly add environment variables and connect to mongo db)
+9. Creating your Components ** 05/06/2022 (Cant properly add environment variables and connect to mongo db)
+10. Styling your Components ** 05/06/2022 (Cant properly add environment variables and connect to mongo db)
+11. Conclusion  == Somethings are not complete from the turorila need to polish up ui and add update of crud
