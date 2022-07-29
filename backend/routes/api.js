@@ -2,7 +2,6 @@
 // For this, we need to create routes which will define various endpoints that the todo app will depend on. 
 // So let’s create a folder routes and create a file api.*_js *_with the following code in it.
 
-
 const express = require('express');
 const router = express.Router();
 // Having created our model we need to update our routes to make use of the new model.
