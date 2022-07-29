@@ -42,7 +42,7 @@ class Todo extends Component {
 
     return(
       
-        <Todo/>
+        {todos}
 
         
         
